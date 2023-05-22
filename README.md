@@ -1,17 +1,24 @@
-# Welcome ! 
+# Welcome! 😄 
 
-I'm Lucas Pereira, i am a 18 year's old man that want's to improve my programing skills day by day
+> I'm Lucas Pereira, i am 18 year's old and my history with one computer begin's since i have 7~8 years
+> 
+> I recentelly met something called "programing" in my high-school and i loved 
+> so now I am focused in improve my programing skills day by day pretending to create incredible things 
+
+I know that's is not a lot but i think it's what you need for now
+If you want to know more about it I invite to follow my journey looking at her mirror(this profile)
+
+🌹 I hope you enjoy 🌹
  
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=eStorMlucas&theme=react&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eStorMlucas&layout=compact&theme=react)](https://github.com/eStorMlucas/github-readme-stats)
+## Actually i am using this technologies: 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eStorMlucas&layout=compact&theme=react)](https://github.com/eStorMlucas/github-readme-stats)
 <!--- FUTURE 
 [React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 --->
 ## Connect With Me <a href="https://www.linkedin.com/in/lpcruz04/" target="_blank"> ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-
