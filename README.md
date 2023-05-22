@@ -1,16 +1,16 @@
 # Welcome! 😄 
 
-> I'm Lucas Pereira, i am 18 year's old and my history with one computer begin's since i have 7~8 years
+> I'm Lucas Pereira, I am 18 years old and my history with one computer begins since I have 7~8 years
 > 
-> I recentelly met something called "programing" in my high-school and i loved 
-> so now I am focused in improve my programing skills day by day pretending to create incredible things 
+> I recently met something called "programming" in my high-school and I loved, 
+> so now I am focused in improve my programming  skills day by day pretending to create incredible things 
 
 I know that's is not a lot but i think it's what you need for now
 If you want to know more about it I invite to follow my journey looking at her mirror(this profile)
 
 🌹 I hope you enjoy 🌹
  
-## Actually i am using this technologies: 
+## Actually, I am using these technologies: 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
